@@ -20,8 +20,6 @@ How To Use
 4.Paste Ur Webhook URL At webhook_url:"here"
 5.Save 
 6.Open Termux 
-
-
 7.Type pkg update && pkg upgrade 
 8.type pkg install nodejs 
 9.type node wsender.js 
